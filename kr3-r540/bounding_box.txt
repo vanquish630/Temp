@@ -1,0 +1,2 @@
+link1 Mesh Bounding Box Size 0.235029 0.200000 0.221409
+link2 Mesh Bounding Box Size 0.129448 0.195972 0.359183
